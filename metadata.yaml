@@ -1,11 +1,16 @@
 _repo: Love-and-tea-A-comedy-drama-of-colonial-times-in-two-acts_68194
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68194-h/images/cover.jpg
 creator:
   author:
     agent_name: See, Anna Phillips
     gutenberg_agent_id: '54648'
     url: http://www.gutenberg.org/2009/agents/54648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68194#Love-and-tea-A-comedy-drama-of-colonial-times-in-two-acts
 gutenberg_issued: '2022-05-28'
 identifiers:
   gutenberg: '68194'
